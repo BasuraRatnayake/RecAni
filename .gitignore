@@ -1,0 +1,12 @@
+
+/Source/.vs
+/Source/AniRec.Application/obj
+/Source/AniRec.BackgroundServices/obj
+/Source/AniRec.Domain/bin
+/Source/AniRec.Domain/obj
+/Source/AniRec.Infrastructure/obj
+/Source/AniRec.ML/obj
+/Source/AniRec.Tests/obj
+/Source/AniRec.Web/bin
+/Source/AniRec.Web/obj
+/Source/packages
